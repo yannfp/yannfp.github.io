@@ -27,3 +27,5 @@ collections:
   tabs:
     output: true
     sort_by: order
+
+avatar: /assets/img/avatar.jpg
