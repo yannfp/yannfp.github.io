@@ -16,7 +16,7 @@ My journey at EPITA has trained me to be resilient, fast-learning, and rigorous.
 
 ## 🎓 Education
 
-**EPITA (Ecole Pour l'Informatique et les Techniques Avancées)** *Diplôme d'Ingénieur (Master's Degree equivalent)* | 2023 - 2028
+**EPITA (Ecole Pour l'Informatique et les Techniques Avancées)** *Diplôme d'Ingénieur (Master's Degree equivalent)* 2023 - 2028
 
 
 ## 📬 Contact & Resume

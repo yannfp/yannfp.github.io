@@ -1,0 +1,18 @@
+---
+---
+@import "main";
+
+/* Extend the central content area */
+#main-wrapper .container {
+  max-width: 95% !important;
+}
+
+#core-wrapper {
+  max-width: 1200px !important; /* Adjust this to your preference */
+}
+
+/* Force text to wrap instead of scrolling */
+#core-wrapper .post-content {
+  overflow-wrap: break-word;
+  white-space: normal;
+}
