@@ -22,3 +22,8 @@ social:
     - https://www.linkedin.com/in/yann-fernandez-puig-a2a072312
 
 category: /categories/:name/
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
