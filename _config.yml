@@ -7,20 +7,21 @@ title: Yann Fernandez Puig
 tagline: Aspiring Software Engineer | EPITA 
 
 description: >-
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  3rd-year EPITA student specialized in low-level programming in C, seeking a technical internship for Autumn 2026.
 
 url: ""
 
 github:
-  username: github_username
+  username: yannfp
 
-twitter:
-  username: twitter_username
+linkedIn:
+  username: yann-fernandez-puig-a2a072312
 
 social:
   name: Yann Fernandez Puig
   email: yann.ferpuig@gmail.com 
   links:
     - https://github.com/yannfp
-    - www.linkedin.com/in/yann-fernandez-puig-a2a072312
-ategory: /categories/:name/
+    - https://www.linkedin.com/in/yann-fernandez-puig-a2a072312
+
+category: /categories/:name/
