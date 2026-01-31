@@ -24,5 +24,5 @@ My journey at EPITA has trained me to be resilient, fast-learning, and rigorous.
 I am always open to discussing new opportunities or technical challenges.
 
 - **Email:** [yann.ferpuig@gmail.com](mailto:yann.ferpuig@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/yann-fernandez-puig-a2a072312](www.linkedin.com/in/yann-fernandez-puig-a2a072312)
+- **LinkedIn:** [View my Profile](www.linkedin.com/in/yann-fernandez-puig-a2a072312)
 - **Resume:** [📄 Download my Resume (PDF)](/assets/resume/Resume.pdf)
