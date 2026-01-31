@@ -16,8 +16,20 @@ My journey at EPITA has trained me to be resilient, fast-learning, and rigorous.
 
 ## 🎓 Education
 
-**EPITA (Ecole Pour l'Informatique et les Techniques Avancées)** *Diplôme d'Ingénieur (Master's Degree equivalent)* 2023 - 2028
+**EPITA (Ecole Pour l'Informatique et les Techniques Avancées)**  
+*Diplôme d'Ingénieur (Master's Degree equivalent)* | 2023 - 2028
 
+**Murdoch University (Perth, Australia)**  
+*International Semester Abroad* | Feb 2025 - June 2025  
+Focused on deepening technical knowledge in an international, English-speaking environment.
+
+---
+
+## 🛠  Technical Skills
+**Languages:** C (Specialization), C++/C#, Java, Python, SQL, Shell, OCaml, Lisp, Haskell, HTML5, CSS  
+**Tools & Environment:** Git, GDB, Valgrind, Autotools, UNIX/Linux
+
+---
 
 ## 📬 Contact & Resume
 
