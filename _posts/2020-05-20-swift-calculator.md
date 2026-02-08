@@ -2,8 +2,6 @@
 layout: post
 title: "Lockdown Learning: Building a Calculator in Swift"
 date: 2020-05-20 09:00:00 +0100
-categories: [Projects, Mobile]
-tags: [swift, ios, self-taught]
 ---
 
 ## 📱 The Origin Story

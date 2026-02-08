@@ -2,8 +2,6 @@
 layout: post
 title: "Argonimeaux: From 1st-Grade Request to Award-Winning Data Tool"
 date: 2023-06-15 14:00:00 +0100
-categories: [Projects, Data Science]
-tags: [python, sql, cnes, git, nsi-trophy]
 ---
 
 ## 🏆 Winner of the Regional Prize for Creativity (NSI Trophy)
