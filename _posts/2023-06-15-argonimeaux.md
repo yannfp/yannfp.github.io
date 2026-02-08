@@ -26,3 +26,7 @@ Since this was our first collaborative endeavor, we decided to use **Git** to sh
 
 ### 🌊 Summary
 Despite the technical hurdles and the intense workload, we successfully delivered a tool that met the 1st-graders' needs and earned us the **Regional Prize for Creativity**.
+
+> ### 🏆 Official Documentation
+> You can find the full 8-page candidacy report submitted to the NSI Trophy here (written in French):
+> [**Download Project PDF**](/assets/pdf/argonimaux-report.pdf){:target="_blank"}
