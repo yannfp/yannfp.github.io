@@ -20,6 +20,3 @@ Without a formal curriculum, I navigated the basics of mobile development alone:
 This project was my first real "Hello World" in software engineering. It taught me the most valuable skill I use today at **EPITA**: the ability to learn a new technology independently from scratch. 
 
 While I now focus on low-level **C** and systems architecture, this calculator remains a reminder of why I started coding—to build tools that work.
-
----
-*Check out my [About Me](/tabs/about/) page to see how this hobby evolved into a career in Systems Engineering.*
