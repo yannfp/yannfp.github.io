@@ -7,9 +7,9 @@ order: 4
 
 ## 👋 About Me
 
-I am **Yann Fernandez Puig**, a Computer Science Engineering student at **EPITA** (France). I am passionate about Al tooling, creating intuitive developer experiences, and building applications that turn ideas into tangible, usable software.
+I am **Yann Fernandez Puig**, a **3rd-year Computer Science Engineering student** at **EPITA** (France). I am passionate about AI tooling, creating intuitive developer experiences, and building applications that turn ideas into tangible, usable software.
 
-I am currently seeking an **AI/Full-Stack Internship** at Bloom to help shape the future of mobile app creation.
+I am currently seeking an **internship from August/September 2026 to January/February 2027** to gain hands-on experience and contribute to innovative projects in software development.
 
 ---
 
@@ -27,7 +27,7 @@ I am currently seeking an **AI/Full-Stack Internship** at Bloom to help shape th
 
 ### **Food Truck Manager**
 **RCN Le Moulin de la Pique** | *July 2024 — Aug 2024* 
-- Managed the daily operations of a food truck within the campsite.
+- Managed daily operations of a food truck within the campsite.
 - Performed roles including waiter, washer, cook, and customer service in a multicultural environment.
 
 ### **Personal Tutor**
@@ -90,4 +90,5 @@ I am always open to discussing new technical challenges.
 - **LinkedIn:** [Yann Fernandez Puig](https://www.linkedin.com/in/yann-fernandez-puig){:target="_blank"}
 - **Resume:** [📄 **Download my Resume (PDF)**](/assets/pdf/resume.pdf)
 - **Phone:** +33 7 69 36 06 30 
-- **Location:** Toulouse, France 
+- **Location:** Toulouse, France
+
