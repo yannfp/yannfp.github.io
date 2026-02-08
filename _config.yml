@@ -25,6 +25,12 @@ social:
   links:
     - https://github.com/yannfp
     - https://www.linkedin.com/in/yann-fernandez-puig
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+
       #
 # Prefer color scheme setting.
 #

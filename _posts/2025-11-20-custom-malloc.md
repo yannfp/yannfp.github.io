@@ -2,6 +2,7 @@
 layout: post
 title: "Hard-Core C: Building a Custom Memory Allocator"
 date: 2025-11-20 10:00:00 +0100
+project: true
 ---
 
 ## 🏗️ The Project Challenge

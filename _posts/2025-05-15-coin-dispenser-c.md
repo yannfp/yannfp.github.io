@@ -2,6 +2,7 @@
 layout: post
 title: "Precision in Change: Optimal Coin Dispensing in C"
 date: 2025-05-15 10:00:00 +0100
+project: true
 ---
 
 ## 🇦🇺 Exchange Project: Murdoch University

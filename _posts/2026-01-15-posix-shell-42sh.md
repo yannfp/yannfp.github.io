@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "42sh: Building a POSIX-Compliant Shell from Scratch"
-date: 2026-02-15 10:00:00 +0100
+date: 2026-02-4 10:00:00 +0100
+project: true
 ---
 
 ## 🐚 The Ultimate Systems Challenge

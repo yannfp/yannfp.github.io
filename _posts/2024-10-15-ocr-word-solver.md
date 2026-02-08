@@ -2,8 +2,7 @@
 layout: post
 title: "OCR Word Search Solver: A Journey into Computer Vision"
 date: 2024-10-15 10:00:00 +0100
-categories: 
-tags: 
+project: true
 ---
 
 ## 🧩 Project Overview
