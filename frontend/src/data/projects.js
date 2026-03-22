@@ -8,7 +8,7 @@ export const projects = [
       'A fully POSIX-compliant shell written in C from scratch. Lexer, LL(1) parser, AST execution, pipelines, redirections, functions, aliases, IFS word splitting. Team of 4, ~1 month.',
     tags: ['C99', 'POSIX', 'Parser', 'AST', 'Team of 4'],
     size: 'big', // big | med | med2 | sm | full
-    github: 'https://github.com/yannfp',
+    github: 'https://github.com/yannfp/42sh.git',
   },
   {
     id: '02',
@@ -18,7 +18,7 @@ export const projects = [
       'HTTP/1.1 server with epoll, 10k simultaneous connections, daemon mode.',
     tags: ['C', 'epoll', '10k conns'],
     size: 'med',
-    github: 'https://github.com/yannfp',
+    github: 'https://github.com/yannfp/httpd.git',
   },
   {
     id: '03',
@@ -28,7 +28,7 @@ export const projects = [
       'Custom allocator from scratch. Bucket system, mmap, free list, LD_PRELOAD drop-in.',
     tags: ['C', 'mmap', 'LD_PRELOAD'],
     size: 'med',
-    github: 'https://github.com/yannfp',
+    github: 'https://github.com/yannfp/malloc.git',
   },
   {
     id: '04',
@@ -38,7 +38,7 @@ export const projects = [
       'Pokémon-inspired REST API — Quarkus, PostgreSQL, full game logic. Solo in 3 days.',
     tags: ['Java 21', 'Quarkus', '3 days'],
     size: 'med2',
-    github: 'https://github.com/yannfp',
+    github: 'https://github.com/yannfp/yakamon-jws.git',
   },
   {
     id: '05',
@@ -48,7 +48,7 @@ export const projects = [
       'GNU make reimplementation — Makefile parser, dependency graph, up-to-date detection.',
     tags: ['C', 'Parser', '1 week'],
     size: 'med2',
-    github: 'https://github.com/yannfp',
+    github: 'https://github.com/yannfp/minimake.git',
   },
   {
     id: '06',
@@ -59,7 +59,7 @@ export const projects = [
       'Group leader of a 4-person team at EPITA. Built an optical character recognition engine from scratch — image preprocessing, character segmentation, neural network classification, and word-search grid solving. No external OCR libraries.',
     tags: ['C', 'Computer Vision', 'Neural Network', 'Group Leader'],
     size: 'big',
-    github: 'https://github.com/yannfp',
+//    github: 'https://github.com/yannfp',
   },
   {
     id: '07',
@@ -68,7 +68,7 @@ export const projects = [
     description: 'printf(3) reimplementation. Only putchar allowed — no libc.',
     tags: ['C', 'stdarg'],
     size: 'med',
-    github: 'https://github.com/yannfp',
+    github: 'https://github.com/yannfp/tinyprintf.git',
   },
   {
     id: '08',
@@ -78,7 +78,7 @@ export const projects = [
       'Optimal change algorithm in C, built during a semester abroad at Murdoch University, Australia.',
     tags: ['C', 'Algorithms', 'Australia'],
     size: 'med',
-    github: 'https://github.com/yannfp',
+//    github: 'https://github.com/yannfp',
   },
   {
     id: '09',
@@ -90,7 +90,7 @@ export const projects = [
       'Marine animal behavior visualization tool built on CNES satellite data. Won the Regional Prize for Creativity at the NSI Trophy. Pre-EPITA independent project.',
     tags: ['Data Visualization', 'CNES Satellite Data', 'Marine Biology', 'Award'],
     size: 'full',
-    github: 'https://github.com/yannfp',
+    github: 'https://github.com/yannfp/Argonimeaux.git',
   },
 ]
 
