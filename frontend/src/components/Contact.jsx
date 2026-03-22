@@ -3,8 +3,8 @@ import { useReveal } from '../hooks/useReveal'
 import styles from './Contact.module.css'
 
 const GITHUB = 'https://github.com/yannfp'
-const LINKEDIN = 'https://linkedin.com/in/YOUR_LINKEDIN' // ← update this
-const EMAIL = 'YOUR_EMAIL@example.com'                    // ← update this
+const LINKEDIN = 'https://linkedin.com/in/yann-fernandez-puig/'
+const EMAIL = 'yann.ferpuig@gmail.com'
 
 export default function Contact() {
   const ref = useReveal()
