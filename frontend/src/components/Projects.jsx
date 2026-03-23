@@ -78,13 +78,11 @@ export default function Projects() {
         <Card project={projects[3]} />
         <Card project={projects[4]} delay={1} />
 
-        {/* Row 4-5: OCR (big) + tinyprintf + coin */}
-        <Card project={projects[5]} />
-        <Card project={projects[6]} delay={1} />
-        <Card project={projects[7]} delay={2} />
+        {/* Row 4: tinyprintf */}
+        <Card project={projects[5]} delay={1} />
 
-        {/* Row 6: Argonimeaux (full) */}
-        <Card project={projects[8]} />
+        {/* Row 5: Argonimeaux (full) */}
+        <Card project={projects[6]} />
       </div>
     </section>
   )
